@@ -1,4 +1,4 @@
-import { PasswordGenerator } from './components/PasswordGenerator';
+import PasswordGenerator from './components/PasswordGenerator';
 
 function App() {
   return (
